@@ -27,11 +27,11 @@ Final project for FIVE Agency(now Endava) Android academy.
 Made with Kotlin, UI made using Jetpack Compose, primary database realized in Firebase for online conectivity.
 I also used Room because I wanted to better myself, but it wasn't necessary because Firebase has offline capabilities.
 
-<img src="assets/bLogin.jpg" width="150" style="float:left;">
-<img src="assets/bHome.jpg" width="150" style="float:left;padding:0 20px">
-<img src="assets/bServices.jpg" width="150" style="float:left;">
-<img src="assets/bTimes.jpg" width="150" style="float:left;padding:0 20px">
-<img src="assets/bHistory.jpg" width="150">
+<img src="assets/bLogin.jpg" width="150" style="float:left;">&nbsp;
+<img src="assets/bHome.jpg" width="150" style="float:left;padding:0 20px">&nbsp;
+<img src="assets/bServices.jpg" width="150" style="float:left;">&nbsp;
+<img src="assets/bTimes.jpg" width="150" style="float:left;padding:0 20px">&nbsp;
+<img src="assets/bHistory.jpg" width="150">&nbsp;
 
 
 Database is offline so the application doesn't work more because I only used it as a showcase. It has potential and 
@@ -47,9 +47,9 @@ App which was actually a tutorial application where we got an assignment after l
 Application uses TMDB API with ROOM as a database. Kotlin and Jetpack Compose were used while making, for dependency injection we 
 used Koin. Ktor was also used.
 
-<img src="assets/mHome.jpg" width="250" style="float:left;">
-<img src="assets/mDetails.jpg" width="250" style="float:left;padding:0 20px">
-<img src="assets/mFavorites.jpg" width="250">
+<img src="assets/mHome.jpg" width="250" style="float:left;">&nbsp;
+<img src="assets/mDetails.jpg" width="250" style="float:left;padding:0 20px">&nbsp;
+<img src="assets/mFavorites.jpg" width="250">&nbsp;
 
 
 ## Personal_Assistant
@@ -83,6 +83,6 @@ App made using Kotlin, View for UI and Firebase for database.
 Game keeps track of all scores and displays a high score.
 Database is no longer active.
 
-<img src="assets/memHome.jpg" width="150" style="float:left;">
-<img src="assets/memPlay.jpg" width="150" style="float:left;padding:0 20px">
-<img src="assets/memEnd.jpg" width="150">
+<img src="assets/memHome.jpg" width="150" style="float:left;">&nbsp;
+<img src="assets/memPlay.jpg" width="150" style="float:left;padding:0 20px">&nbsp;
+<img src="assets/memEnd.jpg" width="150">&nbsp;
