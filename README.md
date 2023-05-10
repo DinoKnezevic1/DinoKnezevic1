@@ -24,6 +24,11 @@ Final project for FIVE Agency(now Endava) Android academy.
 Made with Kotlin, UI made using Jetpack Compose, primary database realized in Firebase for online conectivity.
 I also used Room because I wanted to better myself, but it wasn't necessary because Firebase has offline capabilities.
 
+```md
+    ![alt text](images\bHistory.jpg)
+    ```
+
+
 Database is offline so the application doesn't work more because I only used it as a showcase. It has potential and 
 could even be used in real world.
 
