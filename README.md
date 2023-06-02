@@ -9,7 +9,7 @@ Looking for an internship or a job at the moment.
 
 I am interested in making mobile apps and backend.
 
-Currently using Kotlin and C# with an okay understanding of OOP.
+Currently using Kotlin and C# with solid understanding of OOP.
 
 ## Projects showcase
 
