@@ -9,7 +9,13 @@ Looking for an internship or a job at the moment.
 
 I am interested in making mobile apps and backend.
 
-Currently using Kotlin and C# with solid understanding of OOP.
+Currently using Kotlin and C# with basic experience in JS using React library.
+
+## Web development bootcamp
+Ended June 30th 2023.
+Introduction to backend with WebApi2 and frontend with React.
+Backend with C#, Postgress for database and SourceTree for version control.
+I worked in a group project where we made a sport calendar web application for displaying and managing of sport events in Croatia.
 
 ## Projects showcase
 
