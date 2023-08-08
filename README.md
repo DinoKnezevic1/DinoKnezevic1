@@ -18,7 +18,7 @@ Backend with C#, Postgress for database and SourceTree for version control.
 I worked in a group project where we made a sport calendar web application for displaying and managing of sport events in Croatia.
 
 - [Sport Calendar Backend](https://github.com/DinoKnezevic1/MathosBootcamp_2023_grupa3)
-- [Sport Calendar Frontend)(https://github.com/DinoKnezevic1/Sports_Calendar_React)
+- [Sport Calendar Frontend](https://github.com/DinoKnezevic1/Sports_Calendar_React)
 
 ## Projects showcase
 
